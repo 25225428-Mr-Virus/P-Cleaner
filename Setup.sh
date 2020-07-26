@@ -46,8 +46,12 @@ git clone https://github.com/25225428-Mr-Virus/P-Cleaner
 sleep 1s
 cd P-Cleaner
 sudo chmod 744 P-Cleaner.sh
+git clone https://github.com/25225428-Mr-Virus/P-Cleaner-file
+cd P-Cleaner-file
+sudo chmod 744 P-Cleaner
 sudo cp P-Cleaner /usr/bin/
 sudo chmod 744 /usr/bin/P-Cleaner
+
 sleep 2s
 echo -e
 echo -e $ORANGE" To run this type P-Cleaner in your Terminal. "$NC
