@@ -1,5 +1,0 @@
-#!/bin/bash
-
-#This script will run the P-Cleaner on anywhere in terminal
-
-sudo bash /root/P-Cleaner/P-Cleaner.sh
