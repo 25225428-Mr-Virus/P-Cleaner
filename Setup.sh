@@ -49,7 +49,10 @@ sudo chmod 744 P-Cleaner.sh
 sudo cp P-Cleaner /usr/bin/
 sudo chmod 744 /usr/bin/P-Cleaner
 sleep 2s
-echo -e $ORANGE"To run this type P-Cleaner in your Terminal. "$NC
-
-echo -e "Exiting.... "
+echo -e
+echo -e $ORANGE" To run this type P-Cleaner in your Terminal. "$NC
+echo -e
+echo -e $RED"Exiting.... "
+echo -e
 echo -e $RED"Goodbyee.... "$NC
+sleep 1s
