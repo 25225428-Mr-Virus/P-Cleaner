@@ -53,7 +53,7 @@ sudo chmod 744 /usr/bin/P-Cleaner
 
 sleep 2s
 echo -e
-echo -e $ORANGE" To run this type P-Cleaner in your Terminal. "$NC
+echo -e $ORANGE"TTo run this type P-Cleaner in your Terminal. "$NC
 echo -e
 echo -e $RED"Exiting.... "
 echo -e
